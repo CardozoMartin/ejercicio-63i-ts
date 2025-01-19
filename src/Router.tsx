@@ -1,8 +1,9 @@
+import AdminForm from "./components/Admin/AdminForm/AdminForm"
 
 
 const Router = () => {
   return (
-    <div>Router</div>
+    <AdminForm></AdminForm>
   )
 }
 
